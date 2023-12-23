@@ -1,0 +1,13 @@
+{
+    "parse_setup": {
+        "chrome_driver": "/mnt/data1/ChromeDriver/chromedriver-linux64/chromedriver"
+    },
+    "email_setup": {
+        "sender_address": "bruete12@gmail.com",
+        "sender_password": "xifp mobc fcde vvno",
+        "receiver_address_list": [
+            "lindaz888666@gmail.com",
+            "bruete@gmail.com"
+        ]
+    }
+}

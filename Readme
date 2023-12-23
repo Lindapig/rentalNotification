@@ -1,0 +1,4 @@
+Retrieve Rental Information from Website
+
+This script retrieves rental apartment information from a specific website, parses the data,
+and sends an email notification with the available listings.
